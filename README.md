@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Omkar-pix09/DSA/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/Omkar-pix09/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Omkar-pix09/DSA/tree/master/0412-fizz-buzz) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Omkar-pix09/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/Omkar-pix09/DSA/tree/master/2235-add-two-integers) |
 ## String
 |  |
@@ -51,4 +52,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Omkar-pix09/DSA/tree/master/0136-single-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Omkar-pix09/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
