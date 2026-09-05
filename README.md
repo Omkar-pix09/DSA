@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Omkar-pix09/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Omkar-pix09/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Omkar-pix09/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Omkar-pix09/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Simulation
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Omkar-pix09/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Omkar-pix09/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Omkar-pix09/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Omkar-pix09/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Omkar-pix09/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Omkar-pix09/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
