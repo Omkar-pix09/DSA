@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Omkar-pix09/DSA/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/Omkar-pix09/DSA/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Omkar-pix09/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1732-find-the-highest-altitude](https://github.com/Omkar-pix09/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/Omkar-pix09/DSA/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Omkar-pix09/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/Omkar-pix09/DSA/tree/master/1920-build-array-from-permutation) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Omkar-pix09/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Omkar-pix09/DSA/tree/master/1732-find-the-highest-altitude) |
 ## Matrix
 |  |
 | ------- |
