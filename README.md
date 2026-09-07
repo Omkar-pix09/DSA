@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Omkar-pix09/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Omkar-pix09/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Omkar-pix09/DSA/tree/master/2235-add-two-integers) |
+| [2427-number-of-common-factors](https://github.com/Omkar-pix09/DSA/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/Omkar-pix09/DSA/tree/master/2469-convert-the-temperature) |
 ## String
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Omkar-pix09/DSA/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Omkar-pix09/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/Omkar-pix09/DSA/tree/master/2427-number-of-common-factors) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -154,12 +156,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Omkar-pix09/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/Omkar-pix09/DSA/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Omkar-pix09/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/Omkar-pix09/DSA/tree/master/2427-number-of-common-factors) |
 ## String Matching
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Omkar-pix09/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Omkar-pix09/DSA/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
