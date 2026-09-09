@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Omkar-pix09/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [2236-root-equals-sum-of-children](https://github.com/Omkar-pix09/DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -188,4 +189,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Omkar-pix09/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [2236-root-equals-sum-of-children](https://github.com/Omkar-pix09/DSA/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
