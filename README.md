@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Omkar-pix09/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Omkar-pix09/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Omkar-pix09/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Omkar-pix09/DSA/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Omkar-pix09/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Omkar-pix09/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Omkar-pix09/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Omkar-pix09/DSA/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
