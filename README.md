@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Omkar-pix09/DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Omkar-pix09/DSA/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Omkar-pix09/DSA/tree/master/1108-defanging-an-ip-address) |
+| [1436-destination-city](https://github.com/Omkar-pix09/DSA/tree/master/1436-destination-city) |
 | [1528-shuffle-string](https://github.com/Omkar-pix09/DSA/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Omkar-pix09/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/Omkar-pix09/DSA/tree/master/1678-goal-parser-interpretation) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Omkar-pix09/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Omkar-pix09/DSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Omkar-pix09/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1436-destination-city](https://github.com/Omkar-pix09/DSA/tree/master/1436-destination-city) |
 | [1476-subrectangle-queries](https://github.com/Omkar-pix09/DSA/tree/master/1476-subrectangle-queries) |
 | [1480-running-sum-of-1d-array](https://github.com/Omkar-pix09/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Omkar-pix09/DSA/tree/master/1512-number-of-good-pairs) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Omkar-pix09/DSA/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Omkar-pix09/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1436-destination-city](https://github.com/Omkar-pix09/DSA/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/Omkar-pix09/DSA/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Omkar-pix09/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Omkar-pix09/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
