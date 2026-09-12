@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Omkar-pix09/DSA/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/Omkar-pix09/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Omkar-pix09/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Omkar-pix09/DSA/tree/master/0412-fizz-buzz) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Omkar-pix09/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Omkar-pix09/DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Omkar-pix09/DSA/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Omkar-pix09/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Omkar-pix09/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Omkar-pix09/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Omkar-pix09/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/Omkar-pix09/DSA/tree/master/2236-root-equals-sum-of-children) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Omkar-pix09/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
