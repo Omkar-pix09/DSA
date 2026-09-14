@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Omkar-pix09/DSA/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Omkar-pix09/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Omkar-pix09/DSA/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Omkar-pix09/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Omkar-pix09/DSA/tree/master/1486-xor-operation-in-an-array) |
@@ -217,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Omkar-pix09/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Omkar-pix09/DSA/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
