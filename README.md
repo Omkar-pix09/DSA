@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Omkar-pix09/DSA/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Omkar-pix09/DSA/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Omkar-pix09/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Omkar-pix09/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Omkar-pix09/DSA/tree/master/0412-fizz-buzz) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Omkar-pix09/DSA/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Omkar-pix09/DSA/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Omkar-pix09/DSA/tree/master/0136-single-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Omkar-pix09/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Omkar-pix09/DSA/tree/master/1266-minimum-time-visiting-all-points) |
