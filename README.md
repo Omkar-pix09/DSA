@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Omkar-pix09/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Omkar-pix09/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Omkar-pix09/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2351-first-letter-to-appear-twice](https://github.com/Omkar-pix09/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/Omkar-pix09/DSA/tree/master/2418-sort-the-people) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Omkar-pix09/DSA/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Simulation
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Omkar-pix09/DSA/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Omkar-pix09/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Omkar-pix09/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2351-first-letter-to-appear-twice](https://github.com/Omkar-pix09/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Omkar-pix09/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/Omkar-pix09/DSA/tree/master/2418-sort-the-people) |
 ## Number Theory
@@ -138,11 +140,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Omkar-pix09/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Omkar-pix09/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Omkar-pix09/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2351-first-letter-to-appear-twice](https://github.com/Omkar-pix09/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Omkar-pix09/DSA/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Omkar-pix09/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2351-first-letter-to-appear-twice](https://github.com/Omkar-pix09/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
