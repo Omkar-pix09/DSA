@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Omkar-pix09/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Omkar-pix09/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Omkar-pix09/DSA/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Omkar-pix09/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Omkar-pix09/DSA/tree/master/0258-add-digits) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Omkar-pix09/DSA/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/Omkar-pix09/DSA/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Omkar-pix09/DSA/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Omkar-pix09/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Omkar-pix09/DSA/tree/master/0013-roman-to-integer) |
 | [0771-jewels-and-stones](https://github.com/Omkar-pix09/DSA/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Omkar-pix09/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/Omkar-pix09/DSA/tree/master/1436-destination-city) |
