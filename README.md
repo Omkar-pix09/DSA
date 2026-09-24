@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Omkar-pix09/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Omkar-pix09/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Omkar-pix09/DSA/tree/master/0412-fizz-buzz) |
+| [1185-day-of-the-week](https://github.com/Omkar-pix09/DSA/tree/master/1185-day-of-the-week) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Omkar-pix09/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Omkar-pix09/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Omkar-pix09/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
