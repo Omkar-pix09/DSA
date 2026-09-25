@@ -225,15 +225,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Omkar-pix09/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Omkar-pix09/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/Omkar-pix09/DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Omkar-pix09/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Omkar-pix09/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Omkar-pix09/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Omkar-pix09/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/Omkar-pix09/DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Recursion
@@ -256,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Omkar-pix09/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Omkar-pix09/DSA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
