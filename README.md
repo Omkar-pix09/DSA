@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Omkar-pix09/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Omkar-pix09/DSA/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Omkar-pix09/DSA/tree/master/0067-add-binary) |
+| [0290-word-pattern](https://github.com/Omkar-pix09/DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Omkar-pix09/DSA/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Omkar-pix09/DSA/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Omkar-pix09/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Omkar-pix09/DSA/tree/master/0013-roman-to-integer) |
+| [0290-word-pattern](https://github.com/Omkar-pix09/DSA/tree/master/0290-word-pattern) |
 | [0771-jewels-and-stones](https://github.com/Omkar-pix09/DSA/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Omkar-pix09/DSA/tree/master/0804-unique-morse-code-words) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Omkar-pix09/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
