@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Omkar-pix09/DSA/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Omkar-pix09/DSA/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Omkar-pix09/DSA/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/Omkar-pix09/DSA/tree/master/0283-move-zeroes) |
 | [0804-unique-morse-code-words](https://github.com/Omkar-pix09/DSA/tree/master/0804-unique-morse-code-words) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Omkar-pix09/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Omkar-pix09/DSA/tree/master/1266-minimum-time-visiting-all-points) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Omkar-pix09/DSA/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/Omkar-pix09/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Omkar-pix09/DSA/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Omkar-pix09/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2000-reverse-prefix-of-word](https://github.com/Omkar-pix09/DSA/tree/master/2000-reverse-prefix-of-word) |
