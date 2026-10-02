@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Omkar-pix09/DSA/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Omkar-pix09/DSA/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Omkar-pix09/DSA/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Omkar-pix09/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0804-unique-morse-code-words](https://github.com/Omkar-pix09/DSA/tree/master/0804-unique-morse-code-words) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Omkar-pix09/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Omkar-pix09/DSA/tree/master/1266-minimum-time-visiting-all-points) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Omkar-pix09/DSA/tree/master/0303-range-sum-query-immutable) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Omkar-pix09/DSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Omkar-pix09/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Omkar-pix09/DSA/tree/master/1732-find-the-highest-altitude) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Omkar-pix09/DSA/tree/master/0303-range-sum-query-immutable) |
 | [1476-subrectangle-queries](https://github.com/Omkar-pix09/DSA/tree/master/1476-subrectangle-queries) |
 ## Euclidean Algorithm
 |  |
