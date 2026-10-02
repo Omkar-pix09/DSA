@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Omkar-pix09/DSA/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Omkar-pix09/DSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Omkar-pix09/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0496-next-greater-element-i](https://github.com/Omkar-pix09/DSA/tree/master/0496-next-greater-element-i) |
 | [0804-unique-morse-code-words](https://github.com/Omkar-pix09/DSA/tree/master/0804-unique-morse-code-words) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Omkar-pix09/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Omkar-pix09/DSA/tree/master/1266-minimum-time-visiting-all-points) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Omkar-pix09/DSA/tree/master/0013-roman-to-integer) |
 | [0290-word-pattern](https://github.com/Omkar-pix09/DSA/tree/master/0290-word-pattern) |
+| [0496-next-greater-element-i](https://github.com/Omkar-pix09/DSA/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Omkar-pix09/DSA/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Omkar-pix09/DSA/tree/master/0804-unique-morse-code-words) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Omkar-pix09/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Omkar-pix09/DSA/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Omkar-pix09/DSA/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Omkar-pix09/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Omkar-pix09/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Omkar-pix09/DSA/tree/master/2000-reverse-prefix-of-word) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Omkar-pix09/DSA/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Omkar-pix09/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Depth-First Search
 |  |
