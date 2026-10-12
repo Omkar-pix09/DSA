@@ -279,4 +279,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Omkar-pix09/DSA/tree/master/0196-delete-duplicate-emails) |
+| [0619-biggest-single-number](https://github.com/Omkar-pix09/DSA/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
