@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Omkar-pix09/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Omkar-pix09/DSA/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Omkar-pix09/DSA/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/Omkar-pix09/DSA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Omkar-pix09/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Omkar-pix09/DSA/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Omkar-pix09/DSA/tree/master/0283-move-zeroes) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Omkar-pix09/DSA/tree/master/0085-maximal-rectangle) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Omkar-pix09/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1476-subrectangle-queries](https://github.com/Omkar-pix09/DSA/tree/master/1476-subrectangle-queries) |
 | [1672-richest-customer-wealth](https://github.com/Omkar-pix09/DSA/tree/master/1672-richest-customer-wealth) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Omkar-pix09/DSA/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/Omkar-pix09/DSA/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Omkar-pix09/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Omkar-pix09/DSA/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Omkar-pix09/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Omkar-pix09/DSA/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Omkar-pix09/DSA/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Omkar-pix09/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Depth-First Search
@@ -308,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Omkar-pix09/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Omkar-pix09/DSA/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
