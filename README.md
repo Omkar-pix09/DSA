@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Omkar-pix09/DSA/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Omkar-pix09/DSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Omkar-pix09/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/Omkar-pix09/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Omkar-pix09/DSA/tree/master/0496-next-greater-element-i) |
 | [0804-unique-morse-code-words](https://github.com/Omkar-pix09/DSA/tree/master/0804-unique-morse-code-words) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Omkar-pix09/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Omkar-pix09/DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Omkar-pix09/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Omkar-pix09/DSA/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Omkar-pix09/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Omkar-pix09/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2000-reverse-prefix-of-word](https://github.com/Omkar-pix09/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Hash Table
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Omkar-pix09/DSA/tree/master/0013-roman-to-integer) |
 | [0290-word-pattern](https://github.com/Omkar-pix09/DSA/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/Omkar-pix09/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Omkar-pix09/DSA/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Omkar-pix09/DSA/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Omkar-pix09/DSA/tree/master/0804-unique-morse-code-words) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Omkar-pix09/DSA/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Omkar-pix09/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Omkar-pix09/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1859-sorting-the-sentence](https://github.com/Omkar-pix09/DSA/tree/master/1859-sorting-the-sentence) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Omkar-pix09/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Omkar-pix09/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Omkar-pix09/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
