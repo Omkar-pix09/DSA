@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Omkar-pix09/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Omkar-pix09/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Omkar-pix09/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Omkar-pix09/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Omkar-pix09/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Omkar-pix09/DSA/tree/master/2236-root-equals-sum-of-children) |
@@ -276,12 +277,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Omkar-pix09/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Omkar-pix09/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Omkar-pix09/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Omkar-pix09/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Omkar-pix09/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Omkar-pix09/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Omkar-pix09/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Omkar-pix09/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Omkar-pix09/DSA/tree/master/2236-root-equals-sum-of-children) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Omkar-pix09/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Omkar-pix09/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Omkar-pix09/DSA/tree/master/0101-symmetric-tree) |
 ## Database
 |  |
 | ------- |
